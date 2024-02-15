@@ -1,0 +1,1646 @@
+==> geekedin.net_mirror_20160815/geekedin.Developers.json <==
+{
+    "_id": "08f1b899-709a-48e4-b582-488a6b35720c1454651489792",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "developerscodetest  ",
+    "email": "developerscodetest@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/developerscodetest",
+            "socialNetwork": "other",
+            "url": "https://github.com/developerscodetest"
+        },
+        {
+            "_id": "developerscodetest",
+            "socialNetwork": "github",
+            "url": "https://github.com/developerscodetest"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "developerscodetest@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f1d231-be4a-4c0a-b871-3902af100f6f1455483597300",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "avasilio  ",
+    "email": "avasilio@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/avasilio",
+            "socialNetwork": "other",
+            "url": "https://github.com/avasilio"
+        },
+        {
+            "_id": "avasilio",
+            "socialNetwork": "github",
+            "url": "https://github.com/avasilio"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "avasilio@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f1d304-fa92-4b4f-8169-733e0f84b6ac1457976402682",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "Byliu0131  ",
+    "email": "Byliu0131@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/Byliu0131",
+            "socialNetwork": "other",
+            "url": "https://github.com/Byliu0131"
+        },
+        {
+            "_id": "Byliu0131",
+            "socialNetwork": "github",
+            "url": "https://github.com/Byliu0131"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "Byliu0131@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f1e06b-4119-46a5-a7f8-1cc72228487e1448627753451",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [
+        {
+            "technology": "HTML",
+            "score": 62437,
+            "lastCompute": {
+                "sec": 1469605832,
+                "usec": 28000
+            }
+        },
+        {
+            "technology": "CSS",
+            "score": 135245,
+            "lastCompute": {
+                "sec": 1469605832,
+                "usec": 28000
+            }
+        },
+        {
+            "technology": "Ruby",
+            "score": 6346165,
+            "lastCompute": {
+                "sec": 1469814231,
+                "usec": 73000
+            }
+        },
+        {
+            "technology": "JavaScript",
+            "score": 15967,
+            "lastCompute": {
+                "sec": 1469570624,
+                "usec": 945000
+            }
+        },
+        {
+            "technology": "Shell",
+            "score": 3770,
+            "lastCompute": {
+                "sec": 1469607935,
+                "usec": 945000
+            }
+        },
+        {
+            "technology": "C++",
+            "score": 231367,
+            "lastCompute": {
+                "sec": 1469204141,
+                "usec": 341000
+            }
+        },
+        {
+            "technology": "Makefile",
+            "score": 22500,
+            "lastCompute": {
+                "sec": 1469204141,
+                "usec": 341000
+            }
+        },
+        {
+            "technology": "Batchfile",
+            "score": 1324,
+            "lastCompute": {
+                "sec": 1469204141,
+                "usec": 341000
+            }
+        },
+        {
+            "technology": "C",
+            "score": 1659081,
+            "lastCompute": {
+                "sec": 1469204141,
+                "usec": 341000
+            }
+        },
+        {
+            "technology": "Yacc",
+            "score": 34741,
+            "lastCompute": {
+                "sec": 1469204141,
+                "usec": 341000
+            }
+        },
+        {
+            "technology": "Java",
+            "score": 1583,
+            "lastCompute": {
+                "sec": 1467734498,
+                "usec": 12000
+            }
+        },
+        {
+            "technology": "Groff",
+            "score": 3859,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Perl",
+            "score": 22874,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Python",
+            "score": 1951,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Objective-C",
+            "score": 4,
+            "lastCompute": {
+                "sec": 1469203461,
+                "usec": 790000
+            }
+        },
+        {
+            "technology": "LLVM",
+            "score": 3,
+            "lastCompute": {
+                "sec": 1467350476,
+                "usec": 933000
+            }
+        },
+        {
+            "technology": "DTrace",
+            "score": 562,
+            "lastCompute": {
+                "sec": 1469203461,
+                "usec": 790000
+            }
+        },
+        {
+            "technology": "Tcl",
+            "score": 6777,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Awk",
+            "score": 99,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Perl6",
+            "score": 96,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Emacs Lisp",
+            "score": 16448,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "XSLT",
+            "score": 1863,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Scilab",
+            "score": 99,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Scheme",
+            "score": 85,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Prolog",
+            "score": 15,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Ragel in Ruby Host",
+            "score": 3870,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "Assembly",
+            "score": 169,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "ApacheConf",
+            "score": 57,
+            "lastCompute": {
+                "sec": 1469605832,
+                "usec": 28000
+            }
+        },
+        {
+            "technology": "PowerShell",
+            "score": 12,
+            "lastCompute": {
+                "sec": 1467024707,
+                "usec": 725000
+            }
+        },
+        {
+            "technology": "TeX",
+            "score": 153,
+            "lastCompute": {
+                "sec": 1453301907,
+                "usec": 500000
+            }
+        },
+        {
+            "technology": "Cucumber",
+            "score": 56,
+            "lastCompute": {
+                "sec": 1467351509,
+                "usec": 103000
+            }
+        },
+        {
+            "technology": "CoffeeScript",
+            "score": 394,
+            "lastCompute": {
+                "sec": 1469203091,
+                "usec": 154000
+            }
+        },
+        {
+            "technology": "Liquid",
+            "score": 1,
+            "lastCompute": {
+                "sec": 1469203091,
+                "usec": 154000
+            }
+        },
+        {
+            "technology": "GDB",
+            "score": 570,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        },
+        {
+            "technology": "M4",
+            "score": 32,
+            "lastCompute": {
+                "sec": 1469203519,
+                "usec": 652000
+            }
+        }
+    ],
+    "libraryScores": [
+        {
+            "technology": "9e6993f8-dd14-4a00-a91a-70d6c3fff9fe1448621394247",
+            "library": "56583563e4b0bb19b3e3a2f8",
+            "score": 3956,
+            "lastCompute": {
+                "sec": 1469570624,
+                "usec": 945000
+            },
+            "endorsements": 0,
+            "version": ""
+        },
+        {
+            "technology": "9e6993f8-dd14-4a00-a91a-70d6c3fff9fe1448621394247",
+            "library": "56583563e4b0bb19b3e3a2fd",
+            "score": 244,
+            "lastCompute": {
+                "sec": 1469605831,
+                "usec": 935000
+            },
+            "endorsements": 0,
+            "version": ""
+        }
+    ],
+    "compactLibraries": [
+        {
+            "_id": null,
+            "library": "html5",
+            "score": 38016
+        }
+    ],
+    "name": "Eric Hodel ",
+    "email": "drbrain@segment7.net",
+    "location": "Seattle, WA",
+    "country": "US",
+    "city": "701dc08e-cb99-4c8e-9782-84dc1f8b8a291448621497105",
+    "score": 2363386,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "http://blog.segment7.net",
+            "socialNetwork": "other",
+            "url": "http://blog.segment7.net"
+        }
+    ],
+    "locationPoint": {
+        "x": -122.33207,
+        "y": 47.60621
+    },
+    "yearsOfExperience": 13,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": false,
+    "locateTried": false,
+    "beingLocated": false,
+    "remoteLocateTried": false,
+    "blogFindTried": true,
+    "blogFindTriedDate": {
+        "sec": 1454734725,
+        "usec": 597000
+    },
+    "contactIsPossible": true,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "compactLibrariesComputedDate": {
+        "sec": 1464624969,
+        "usec": 745000
+    },
+    "followersFound": true,
+    "emailAddresses": [
+        {
+            "email": "drbrain@segment7.net",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f1f250-5a7d-4a6a-8fc2-3acd0350de9d1455940734608",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "JohnRahbek  ",
+    "email": "JohnRahbek@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/JohnRahbek",
+            "socialNetwork": "other",
+            "url": "https://github.com/JohnRahbek"
+        },
+        {
+            "_id": "JohnRahbek",
+            "socialNetwork": "github",
+            "url": "https://github.com/JohnRahbek"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "JohnRahbek@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f1f859-a59e-400f-afc6-552a8a19a2b81456682410191",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "MountainRiver",
+    "email": "y244a@yahoo.co.jp",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/y244a",
+            "socialNetwork": "other",
+            "url": "https://github.com/y244a"
+        },
+        {
+            "_id": "y244a",
+            "socialNetwork": "github",
+            "url": "https://github.com/y244a"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [
+        "y244a@yahoo.co.jp"
+    ],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": true,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "y244a@yahoo.co.jp",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f20e82-42b2-41fe-9a93-fcfe9790a1881454329518032",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "shawnfeng",
+    "email": "shawnfeng@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "shawnfeng",
+            "socialNetwork": "github",
+            "url": "https://github.com/shawnfeng"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "shawnfeng@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f213c0-97a9-4c31-a901-02ca970058691454297214975",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "AdrianMarinica",
+    "email": "AdrianMarinica@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "AdrianMarinica",
+            "socialNetwork": "github",
+            "url": "https://github.com/AdrianMarinica"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "AdrianMarinica@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f2197a-f723-4454-8a81-b1e1191666f11454837484697",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "bipinapandkar  ",
+    "email": "bipin.apandkar@gmail.com",
+    "location": "Mumbai",
+    "country": "IN",
+    "city": "5d432d2c-206f-45b9-ae6a-0e45f512640d1448621484347",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/bipinapandkar",
+            "socialNetwork": "other",
+            "url": "https://github.com/bipinapandkar"
+        },
+        {
+            "_id": "bipinapandkar",
+            "socialNetwork": "github",
+            "url": "https://github.com/bipinapandkar"
+        }
+    ],
+    "locationPoint": {
+        "x": 72.88261,
+        "y": 19.07283
+    },
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": false,
+    "locateTried": false,
+    "beingLocated": false,
+    "remoteLocateTried": false,
+    "blogFindTried": false,
+    "contactIsPossible": true,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "bipin.apandkar@gmail.com",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f2297a-a8d9-4ae2-93e4-72737bcb67551457316224862",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "Luizinho Parreira",
+    "email": "luiz.parreira@gmail.com",
+    "location": "São Paulo / SP",
+    "country": "BR",
+    "city": "196e7589-1262-4726-9b93-4859cf68ca5a1448621502173",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/luizinhoparreira",
+            "socialNetwork": "other",
+            "url": "https://github.com/luizinhoparreira"
+        },
+        {
+            "_id": "luizinhoparreira",
+            "socialNetwork": "github",
+            "url": "https://github.com/luizinhoparreira"
+        }
+    ],
+    "locationPoint": {
+        "x": -46.63611,
+        "y": -23.5475
+    },
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": false,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": true,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "luiz.parreira@gmail.com",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f248c5-f4b8-444b-962f-bcef7a156a141454467870062",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "jjroelofs",
+    "email": "jjroelofs@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/jjroelofs",
+            "socialNetwork": "other",
+            "url": "https://github.com/jjroelofs"
+        },
+        {
+            "_id": "jjroelofs",
+            "socialNetwork": "github",
+            "url": "https://github.com/jjroelofs"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "jjroelofs@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f24cfa-e26c-4d1e-8426-7b58d65a087d1455467392428",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "Sagrevyum  ",
+    "email": "Sagrevyum@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/Sagrevyum",
+            "socialNetwork": "other",
+            "url": "https://github.com/Sagrevyum"
+        },
+        {
+            "_id": "Sagrevyum",
+            "socialNetwork": "github",
+            "url": "https://github.com/Sagrevyum"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "Sagrevyum@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f269f2-9bf4-4931-b564-51c1363c97261456025532872",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "jbolanos  ",
+    "email": "jbolanos@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/jbolanos",
+            "socialNetwork": "other",
+            "url": "https://github.com/jbolanos"
+        },
+        {
+            "_id": "jbolanos",
+            "socialNetwork": "github",
+            "url": "https://github.com/jbolanos"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "jbolanos@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f26b89-a619-4c33-89f8-b5f091ba97931455421225920",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "jlfoster  ",
+    "email": "jlfoster@github.xyzp.wzf",
+    "location": "Canada",
+    "country": "CA",
+    "city": "352246da-d5cd-433b-8ff6-6f0f34f3e8681448621522849",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/jlfoster",
+            "socialNetwork": "other",
+            "url": "https://github.com/jlfoster"
+        },
+        {
+            "_id": "jlfoster",
+            "socialNetwork": "github",
+            "url": "https://github.com/jlfoster"
+        }
+    ],
+    "locationPoint": {
+        "x": -113.64258,
+        "y": 60.10867
+    },
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": false,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "jlfoster@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f279c8-e376-44e0-8012-2277591329411455464594816",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "remiets  ",
+    "email": "remiets@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/remiets",
+            "socialNetwork": "other",
+            "url": "https://github.com/remiets"
+        },
+        {
+            "_id": "remiets",
+            "socialNetwork": "github",
+            "url": "https://github.com/remiets"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+            "email": "remiets@github.xyzp.wzf",
+            "type": "primary"
+        }
+    ]
+}
+{
+    "_id": "08f28ac7-50b6-4753-af1e-53797433bd321455633798444",
+    "_class": "com.geekedin.domain.entities.mongo.EDeveloper",
+    "scores": [],
+    "libraryScores": [],
+    "compactLibraries": [],
+    "name": "pablolin81",
+    "email": "pablolin81@github.xyzp.wzf",
+    "score": 0,
+    "scanCompleted": false,
+    "socialNetworks": [
+        {
+            "_id": "https://github.com/pablolin81",
+            "socialNetwork": "other",
+            "url": "https://github.com/pablolin81"
+        },
+        {
+            "_id": "pablolin81",
+            "socialNetwork": "github",
+            "url": "https://github.com/pablolin81"
+        }
+    ],
+    "yearsOfExperience": 0,
+    "otherLocations": [],
+    "extraEmails": [],
+    "locateTryFailed": true,
+    "locateTried": true,
+    "beingLocated": false,
+    "remoteLocateTried": true,
+    "blogFindTried": false,
+    "contactIsPossible": false,
+    "freelancer": false,
+    "compactLibrariesComputed": false,
+    "compactLibrariesBeingComputed": false,
+    "followersFound": false,
+    "emailAddresses": [
+        {
+
+==> geekedin.net_mirror_20160815/geekedin.ScannedUser.json <==
+{
+    "_id": {
+        "$id": "57b01a39d73d29cf2ec93ea7"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "fdecampredon",
+    "name": "François de Campredon",
+    "source": "github",
+    "email": "francois.de.campredon@gmail.com",
+    "scanStarted": {
+        "sec": 1471158841,
+        "usec": 444000
+    },
+    "numberProjects": 64,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 30,
+    "message": "project  ---> https://github.com/fdecampredon/rx-react scan finished->-Time=>7",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b01ac7d73d29cf2ec93f08"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "RenaudR",
+    "name": "Renaud",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471158983,
+        "usec": 162000
+    },
+    "numberProjects": 28,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 3,
+    "message": "project  ---> https://github.com/RenaudR/platform_packages_apps_Settings-1 scan finished->-Time=>10",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b01b04d73d29cf2ec93f26"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "juju2013",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471159044,
+        "usec": 30000
+    },
+    "numberProjects": 52,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 14,
+    "message": "project  ---> https://github.com/juju2013/AUR scan finished->-Time=>74",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b01f4dd73d29cf2ec9d9eb"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "saimonmoore",
+    "name": "Saimon Moore",
+    "source": "github",
+    "email": "saimonmoore@gmail.com",
+    "scanStarted": {
+        "sec": 1471160141,
+        "usec": 470000
+    },
+    "numberProjects": 100,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 18,
+    "message": "project  ---> https://github.com/saimonmoore/alexispapadopoulos-site scan finished->-Time=>4",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b01f63d73d29cf2ec9da86"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "eduardo",
+    "name": "Edu Fernández",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471160163,
+        "usec": 943000
+    },
+    "numberProjects": 26,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 6,
+    "message": "project  ---> https://github.com/eduardo/planning-poker-timer scan finished->-Time=>7",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b0235dd73d29cf2ecb0e0a"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "bas-t",
+    "name": "Tycho Lürsen",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471161181,
+        "usec": 255000
+    },
+    "numberProjects": 24,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 13,
+    "message": "project  ---> https://github.com/bas-t/oscam scan finished->-Time=>11",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b023cfd73d29cf2ecb142a"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "zyzyis",
+    "name": "Si Yin",
+    "source": "github",
+    "email": "zyzyis@gmail.com",
+    "scanStarted": {
+        "sec": 1471161295,
+        "usec": 589000
+    },
+    "numberProjects": 22,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 5,
+    "message": "project  ---> https://github.com/zyzyis/env-toolbox scan finished->-Time=>18",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b023fcd73d29cf2ecb169f"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "johnslobbe",
+    "name": "John Slobbe",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471161340,
+        "usec": 126000
+    },
+    "numberProjects": 1,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 0,
+    "message": "Processing details of ---> johnslobbe@github.xyzp.wzf-johnslobbe->-Time=>6",
+    "scannedUserStep": "scanningProject"
+}
+{
+    "_id": {
+        "$id": "57b025f2d73d29cf2ecb2f1b"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "brad-mac",
+    "name": "Brad Macpherson",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471161842,
+        "usec": 780000
+    },
+    "numberProjects": 2,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 1,
+    "message": "project  ---> https://github.com/brad-mac/Win32-File-VersionInfo scan finished->-Time=>16",
+    "scannedUserStep": "postProcess"
+}
+{
+    "_id": {
+        "$id": "57b0266cd73d29cf2ecb36e7"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "victoraldir",
+    "name": "Victor Hugo Montes Neves",
+    "source": "github",
+    "email": "vhaldir@gmail.com",
+    "scanStarted": {
+        "sec": 1471161964,
+        "usec": 422000
+    },
+    "numberProjects": 17,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 10,
+    "message": "processProject -- end ---> https://github.com/victoraldir/controle-ordem-servico->-Time=>12",
+    "scannedUserStep": "postProcess"
+}
+{
+    "_id": {
+        "$id": "57b026f2d73d29cf2ecb410f"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "pmoriarty",
+    "name": "Paudi Moriarty",
+    "source": "github",
+    "email": "paudi.moriarty@aviso.io",
+    "scanStarted": {
+        "sec": 1471162098,
+        "usec": 389000
+    },
+    "numberProjects": 22,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 3,
+    "message": "project  ---> https://github.com/pmoriarty/dotfiles scan finished->-Time=>23",
+    "scannedUserStep": "postProcess"
+}
+{
+    "_id": {
+        "$id": "57b02713d73d29cf2ecb4256"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "dannyconnolly",
+    "name": "Danny Connolly",
+    "source": "github",
+    "email": "info@dannyconnolly.me",
+    "scanStarted": {
+        "sec": 1471162131,
+        "usec": 421000
+    },
+    "numberProjects": 12,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 9,
+    "message": "project  ---> https://github.com/dannyconnolly/Street_Heart_Project scan finished->-Time=>28",
+    "scannedUserStep": "postProcess"
+}
+{
+    "_id": {
+        "$id": "57b02731d73d29cf2ecb4285"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "jamesdraper5",
+    "name": "James Draper",
+    "source": "github",
+    "email": "jamesdrape@gmail.com",
+    "scanStarted": {
+        "sec": 1471162161,
+        "usec": 989000
+    },
+    "numberProjects": 7,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 5,
+    "message": "processProject -- end ---> https://github.com/jamesdraper5/Tiling->-Time=>19",
+    "scannedUserStep": "postProcess"
+}
+{
+    "_id": {
+        "$id": "57b027f1d73d29cf2ecb6080"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "rszczypka",
+    "name": "Rafal",
+    "source": "github",
+    "scanStarted": {
+        "sec": 1471162353,
+        "usec": 430000
+    },
+    "numberProjects": 12,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 5,
+    "message": "project  ---> https://github.com/rszczypka/swd-p2-transportation scan finished->-Time=>40",
+    "scannedUserStep": "postProcess"
+}
+{
+    "_id": {
+        "$id": "57b029c2d73d29cf2ecb947c"
+    },
+    "_class": "com.geekedin.domain.mongo.ScannedUser",
+    "user": "flammie",
+    "name": "Flammie Pirinen",
+    "source": "github",
+    "email": "flammie@iki.fi",
+    "scanStarted": {
+        "sec": 1471162818,
+        "usec": 148000
+    },
+    "numberProjects": 30,
+    "projectsBeingScanned": 0,
+    "projectsAlreadyScanned": 13,
+    "message": "project  ---> https://github.com/flammie/omorfi scan finished->-Time=>41",
+    "scannedUserStep": "scanningProject"
+}
+
+==> geekedin.net_mirror_20160815/site_dbs.json <==
+{
+    "test": {
+        "Developers": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        }
+    },
+    "config": {
+        "tags_56b41cc944bd390932e79827": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        },
+        "lockpings_56b41cc944bd390932e79827": {
+            "count": 2,
+            "size": 51,
+            "dump": false
+        },
+        "chunks": {
+            "count": 2595,
+            "size": 744198,
+            "dump": false
+        },
+        "locks_56b41cc944bd390932e79827": {
+            "count": 7,
+            "size": 181,
+            "dump": false
+        },
+        "version_56b41cc944bd390932e79827": {
+            "count": 4,
+            "size": 134,
+            "dump": false
+        },
+        "collections": {
+            "count": 8,
+            "size": 981,
+            "dump": false
+        },
+        "settings_56b41cc944bd390932e79827": {
+            "count": 3,
+            "size": 81,
+            "dump": false
+        },
+        "settings": {
+            "count": 2,
+            "size": 72,
+            "dump": false
+        },
+        "version": {
+            "count": 1,
+            "size": 83,
+            "dump": false
+        },
+        "collections_56b41cc944bd390932e79827": {
+            "count": 6,
+            "size": 170,
+            "dump": false
+        },
+        "databases": {
+            "count": 2,
+            "size": 116,
+            "dump": false
+        },
+        "shards": {
+            "count": 4,
+            "size": 200,
+            "dump": false
+        },
+        "mongos": {
+            "count": 4,
+            "size": 360,
+            "dump": false
+        },
+        "mongos_56b41cc944bd390932e79827": {
+            "count": 5,
+            "size": 138,
+            "dump": false
+        },
+        "databases_56b41cc944bd390932e79827": {
+            "count": 3,
+            "size": 87,
+            "dump": false
+        },
+        "actionlog_56b41cc944bd390932e79827": {
+            "count": 7,
+            "size": 190,
+            "dump": false
+        },
+        "changelog_56b41cc944bd390932e79827": {
+            "count": 7,
+            "size": 190,
+            "dump": false
+        },
+        "tags": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        },
+        "actionlog": {
+            "count": 8160,
+            "size": 2097120,
+            "dump": false
+        },
+        "lockpings": {
+            "count": 8,
+            "size": 522,
+            "dump": false
+        },
+        "locks": {
+            "count": 15,
+            "size": 4064,
+            "dump": false
+        },
+        "changelog": {
+            "count": 14192,
+            "size": 6090046,
+            "dump": false
+        }
+    },
+    "geekedin": {
+        "ScannedUser": {
+            "count": 15,
+            "size": 5655,
+            "dump": true
+        },
+        "ScanInfo6": {
+            "count": 8,
+            "size": 884,
+            "dump": false
+        },
+        "EmailTemplate": {
+            "count": 32,
+            "size": 42860,
+            "dump": false
+        },
+        "UserCompactLibrary": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        },
+        "ScanInfo5": {
+            "count": 8,
+            "size": 884,
+            "dump": false
+        },
+        "ScanInfo8": {
+            "count": 2,
+            "size": 394,
+            "dump": false
+        },
+        "SiteAccess": {
+            "count": 1225,
+            "size": 195451,
+            "dump": false
+        },
+        "PublicJobPost": {
+            "count": 7,
+            "size": 14320,
+            "dump": false
+        },
+        "UserProject_56b41cc944bd390932e79827": {
+            "count": 27,
+            "size": 861,
+            "dump": false
+        },
+        "CompactLibrary": {
+            "count": 273,
+            "size": 45750,
+            "dump": false
+        },
+        "UserTechnologyActivityHistory": {
+            "count": 181470,
+            "size": 38265124,
+            "dump": false
+        },
+        "SiteStats": {
+            "count": 144,
+            "size": 2348166,
+            "dump": false
+        },
+        "ProjectCommit": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        },
+        "LibraryPackage": {
+            "count": 438382,
+            "size": 80646303,
+            "dump": false
+        },
+        "Developers_56b41cc944bd390932e79827": {
+            "count": 34,
+            "size": 1160,
+            "dump": false
+        },
+        "ProjectCompactLibrary": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        },
+        "ProjectCommitCopy_56b41cc944bd390932e79827": {
+            "count": 12,
+            "size": 328,
+            "dump": false
+        },
+        "SavedDeveloperFilter": {
+            "count": 1,
+            "size": 451,
+            "dump": false
+        },
+        "Organization": {
+            "count": 1041379,
+            "size": 236207269,
+            "dump": false
+        },
+        "RobotsConfig": {
+            "count": 1,
+            "size": 243,
+            "dump": false
+        },
+        "FollowedUser": {
+            "count": 7,
+            "size": 1470,
+            "dump": false
+        },
+        "LocateFailure": {
+            "count": 6818399,
+            "size": 1319763444,
+            "dump": false
+        },
+        "Library": {
+            "count": 48083,
+            "size": 17078014,
+            "dump": false
+        },
+        "UserLibraryActivityHistory": {
+            "count": 0,
+            "size": 0,
+            "dump": false
+        },
+        "Developers": {
+            "count": 8187139,
+            "size": 7500708736,
+            "dump": true
+        },
+        "ProjectCollaborator": {
+            "count": 1637891,
+            "size": 7149691330,
+            "dump": false
+        },
+        "TechnologyFileExtension": {
+            "count": 26,
+            "size": 3628,
+            "dump": false
+        },
+        "JobPostUserComment": {
+            "count": 2,
+            "size": 776,
+            "dump": false
+        },
+        "Project": {
+            "count": 729388,
+            "size": 1033831440,
+            "dump": false
+        },
+        "UserCommitsHistory": {
+            "count": 1312421,
+            "size": 295294725,
+            "dump": false
+        },
+        "RobotsConfig1": {
+            "count": 1,
+            "size": 239,
+            "dump": false
+        },
+        "ScannedProject": {
+            "count": 8,
+            "size": 1992,
+            "dump": false
+        },
+        "ProjectCommitCopy": {
+            "count": 322778846,
+            "size": 176955047210,
+            "dump": false
+        },
+        "AkkaInfo": {
+            "count": 1,
+            "size": 96,
+            "dump": false
+        },
+        "userDocuments.files": {
+            "count": 3,
+            "size": 714,
+            "dump": false
+        },
+        "Region": {
+            "count": 10,
+            "size": 4512,
+            "dump": false
+        },
+        "Error_56b41cc944bd390932e79827": {
+            "count": 8,
+            "size": 222,
+            "dump": false
+        },
+        "Error": {
+            "count": 4689346,
+            "size": 5349120547,
+            "dump": false
+        },
+        "ScanInfo": {
+            "count": 2,
+            "size": 373,
+            "dump": false
+        },
+        "UserProject": {
+            "count": 1812122,
+            "size": 2682638288,
+            "dump": false
+        },
+        "userDocuments.chunks": {
+            "count": 9,
+            "size": 1875977,
+            "dump": false
+        }
+    }
+}
+==> geekedin.net_mirror_20160815/site_info.json <==
+{
+    "_shodan": {
+        "options": {},
+        "id": null,
+        "module": "mongodb",
+        "crawler": "23edd73099dd1e26ac30e646b7bb7857d248d542"
+    },
+    "product": "MongoDB",
+    "hash": -1292395800,
+    "version": "3.2.4",
+    "ip": 2609233952,
+    "isp": "TerraTransit AG",
+    "os": null,
+    "port": 27017,
+    "hostnames": [],
+    "location": {
+        "city": null,
+        "region_code": null,
+        "area_code": null,
+        "longitude": 21.0167,
+        "country_code3": "POL",
+        "country_name": "Poland",
+        "postal_code": null,
+        "dma_code": null,
+        "country_code": "PL",
+        "latitude": 52.2333
+    },
+    "timestamp": "2016-07-02T07:10:24.136956",
+    "domains": [],
+    "org": "TerraTransit AG",
+    "data": "MongoDB Server Information\n{\n    \"connections\": {\n        \"current\": 16, \n        \"available\": 3260, \n        \"totalCreated\": 3512\n    }, \n    \"uptime\": 8344857.0, \n    \"metrics\": {\n        \"cursor\": {\n            \"open\": {\n                \"pinned\": 0, \n                \"total\": 0, \n                \"multiTarget\": 0, \n                \"singleTarget\": 0\n            }\n        }, \n        \"commands\": {\n            \"updateUser\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dropRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"renameCollection\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"planCacheSetFilter\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"usersInfo\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"applyOps\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"setParameter\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"find\": {\n                \"failed\": 0, \n                \"total\": 470461517\n            }, \n            \"compact\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"createIndexes\": {\n                \"failed\": 1, \n                \"total\": 6503\n            }, \n            \"removeShard\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"group\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"moveChunk\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"_mergeAuthzCollections\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"explain\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"currentOp\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"planCacheListFilters\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"<UNKNOWN>\": 0, \n            \"logRotate\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getPrevError\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"replSetGetStatus\": {\n                \"failed\": 22, \n                \"total\": 22\n            }, \n            \"count\": {\n                \"failed\": 4, \n                \"total\": 174086512\n            }, \n            \"grantRolesToUser\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"shardConnPoolStats\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"findAndModify\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"planCacheClear\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getCmdLineOpts\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"insert\": {\n                \"failed\": 0, \n                \"total\": 2029654\n            }, \n            \"fsync\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"drop\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"connectionStatus\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"planCacheListPlans\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dataSize\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"authenticate\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"revokeRolesFromRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"grantPrivilegesToRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"geoNear\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"planCacheClearFilters\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getParameter\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dropIndexes\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"listDatabases\": {\n                \"failed\": 0, \n                \"total\": 156\n            }, \n            \"collStats\": {\n                \"failed\": 0, \n                \"total\": 43\n            }, \n            \"hostInfo\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getShardVersion\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dropDatabase\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"netstat\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"update\": {\n                \"failed\": 0, \n                \"total\": 25500429\n            }, \n            \"revokePrivilegesFromRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"logout\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"eval\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"isMaster\": {\n                \"failed\": 0, \n                \"total\": 1918688\n            }, \n            \"getShardMap\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getLog\": {\n                \"failed\": 0, \n                \"total\": 2\n            }, \n            \"connPoolSync\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"flushRouterConfig\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"serverStatus\": {\n                \"failed\": 0, \n                \"total\": 21\n            }, \n            \"features\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"addShard\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"connPoolStats\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"planCacheListQueryShapes\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"copydb\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"forceerror\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"splitVector\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"shutdown\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"listCollections\": {\n                \"failed\": 0, \n                \"total\": 37\n            }, \n            \"saslStart\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"distinct\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"create\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dropAllRolesFromDatabase\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"invalidateUserCache\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"whatsmyuri\": {\n                \"failed\": 0, \n                \"total\": 34\n            }, \n            \"enableSharding\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"updateRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"killOp\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"reIndex\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"_isSelf\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getnonce\": {\n                \"failed\": 0, \n                \"total\": 2\n            }, \n            \"listIndexes\": {\n                \"failed\": 0, \n                \"total\": 2\n            }, \n            \"collMod\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"movePrimary\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"filemd5\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"delete\": {\n                \"failed\": 0, \n                \"total\": 2601458\n            }, \n            \"getMore\": {\n                \"failed\": 0, \n                \"total\": 40056873\n            }, \n            \"rolesInfo\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dropUser\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"listShards\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"saslContinue\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"getLastError\": {\n                \"failed\": 0, \n                \"total\": 3116\n            }, \n            \"convertToCapped\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"ping\": {\n                \"failed\": 0, \n                \"total\": 967\n            }, \n            \"availableQueryOptions\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dropAllUsersFromDatabase\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"split\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"listCommands\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"profile\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"repairDatabase\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"killCursors\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"mapReduce\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"shardCollection\": {\n                \"failed\": 1, \n                \"total\": 2\n            }, \n            \"isdbgrid\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"createUser\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"aggregate\": {\n                \"failed\": 0, \n                \"total\": 853\n            }, \n            \"validate\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"mergeChunks\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"revokeRolesFromUser\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"createRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"authSchemaUpgrade\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"dbStats\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"grantRolesToRole\": {\n                \"failed\": 0, \n                \"total\": 0\n            }, \n            \"buildInfo\": {\n                \"failed\": 0, \n                \"total\": 3261\n            }, \n            \"resetError\": {\n                \"failed\": 0, \n                \"total\": 0\n            }\n        }, \n        \"getLastError\": {\n            \"wtime\": {\n                \"num\": 0, \n                \"totalMillis\": 0\n            }\n        }\n    }, \n    \"network\": {\n        \"numRequests\": 716792612, \n        \"bytesOut\": 7499432544886, \n        \"bytesIn\": 262265869264\n    }, \n    \"opcounters\": {\n        \"getmore\": 40056876, \n        \"insert\": 142026127, \n        \"update\": 25500429, \n        \"command\": 206151762, \n        \"query\": 470461596, \n        \"delete\": 2601458\n    }, \n    \"process\": \"mongos\", \n    \"advisoryHostFQDNs\": [], \n    \"uptimeMillis\": 8344856349, \n    \"pid\": 2266, \n    \"tcmalloc\": {\n        \"generic\": {\n            \"current_allocated_bytes\": 4267232, \n            \"heap_size\": 345792512\n        }, \n        \"formattedString\": \"------------------------------------------------\\nMALLOC:        4267232 (    4.1 MiB) Bytes in use by application\\nMALLOC: +    218734592 (  208.6 MiB) Bytes in page heap freelist\\nMALLOC: +     22017424 (   21.0 MiB) Bytes in central cache freelist\\nMALLOC: +     13072864 (   12.5 MiB) Bytes in transfer cache freelist\\nMALLOC: +     72094640 (   68.8 MiB) Bytes in thread cache freelists\\nMALLOC: +      1994912 (    1.9 MiB) Bytes in malloc metadata\\nMALLOC:   ------------\\nMALLOC: =    332181664 (  316.8 MiB) Actual memory used (physical + swap)\\nMALLOC: +     15605760 (   14.9 MiB) Bytes released to OS (aka unmapped)\\nMALLOC:   ------------\\nMALLOC: =    347787424 (  331.7 MiB) Virtual address space used\\nMALLOC:\\nMALLOC:           6066              Spans in use\\nMALLOC:             44              Thread heaps in use\\nMALLOC:           8192              Tcmalloc page size\\n------------------------------------------------\\nCall ReleaseFreeMemory() to release freelist memory to the OS (via madvise()).\\nBytes released to the OS take up virtual address space but no physical memory.\\n\", \n        \"tcmalloc\": {\n            \"pageheap_unmapped_bytes\": 15605760, \n            \"current_total_thread_cache_bytes\": 72094640, \n            \"central_cache_free_bytes\": 22017424, \n            \"max_total_thread_cache_bytes\": 1073741824, \n            \"transfer_cache_free_bytes\": 13072864, \n            \"pageheap_free_bytes\": 218734592, \n            \"aggressive_memory_decommit\": 0, \n            \"thread_cache_free_bytes\": 72094640\n        }\n    }, \n    \"uptimeEstimate\": 8242592.0, \n    \"mem\": {\n        \"resident\": 331, \n        \"supported\": true, \n        \"bits\": 64, \n        \"virtual\": 762\n    }, \n    \"host\": \"mongodb02\", \n    \"version\": \"3.2.4\", \n    \"asserts\": {\n        \"msg\": 0, \n        \"rollovers\": 0, \n        \"regular\": 0, \n        \"warning\": 0, \n        \"user\": 559\n    }, \n    \"sharding\": {\n        \"configsvrConnectionString\": \"mongodb01:27019,mongodb02:27019,mongodb03:27019\"\n    }, \n    \"ok\": 1.0, \n    \"extra_info\": {\n        \"note\": \"fields vary by platform\", \n        \"page_faults\": 1838, \n        \"heap_usage_bytes\": 4267232\n    }, \n    \"localTime\": \"2016-07-02T07:10:22.222000\"\n},\n{\n    \"storageEngines\": [], \n    \"maxBsonObjectSize\": 16777216, \n    \"ok\": 1.0, \n    \"bits\": 64, \n    \"modules\": [], \n    \"openssl\": {\n        \"compiled\": \"OpenSSL 1.0.1e-fips 11 Feb 2013\", \n        \"running\": \"OpenSSL 1.0.1e-fips 11 Feb 2013\"\n    }, \n    \"javascriptEngine\": \"mozjs\", \n    \"version\": \"3.2.4\", \n    \"gitVersion\": \"e2ee9ffcf9f5a94fad76802e28cc978718bb7a30\", \n    \"versionArray\": [\n        3, \n        2, \n        4, \n        0\n    ], \n    \"debug\": false, \n    \"buildEnvironment\": {\n        \"cxxflags\": \"-Wnon-virtual-dtor -Woverloaded-virtual -std=c++11\", \n        \"cc\": \"/opt/mongodbtoolchain/bin/gcc: gcc (GCC) 4.8.2\", \n        \"linkflags\": \"-fPIC -pthread -Wl,-z,now -rdynamic -fuse-ld=gold\", \n        \"distarch\": \"x86_64\", \n        \"cxx\": \"/opt/mongodbtoolchain/bin/g++: g++ (GCC) 4.8.2\", \n        \"ccflags\": \"-fno-omit-frame-pointer -fPIC -fno-strict-aliasing -ggdb -pthread -Wall -Wsign-compare -Wno-unknown-pragmas -Winvalid-pch -Werror -O2 -Wno-unused-local-typedefs -Wno-unused-function -Wno-deprecated-declarations -Wno-unused-but-set-variable -Wno-missing-braces -fno-builtin-memcmp\", \n        \"target_arch\": \"x86_64\", \n        \"distmod\": \"rhel70\", \n        \"target_os\": \"linux\"\n    }, \n    \"sysInfo\": \"deprecated\", \n    \"allocator\": \"tcmalloc\"\n},\n{\n    \"totalSize\": 57195110400.0, \n    \"totalSizeMb\": 54545, \n    \"ok\": 1.0, \n    \"databases\": [\n        {\n            \"sizeOnDisk\": 57195069440.0, \n            \"collections\": [], \n            \"name\": \"geekedin\", \n            \"empty\": false, \n            \"shards\": {\n                \"shard0001\": 10271776768.0, \n                \"shard0000\": 10498301952.0, \n                \"shard0003\": 11335667712.0, \n                \"shard0002\": 25089323008.0\n            }\n        }, \n        {\n            \"sizeOnDisk\": 40960, \n            \"collections\": [], \n            \"name\": \"test\", \n            \"empty\": false, \n            \"shards\": {\n                \"shard0000\": 40960\n            }\n        }, \n        {\n            \"sizeOnDisk\": 6455296.0, \n            \"collections\": [], \n            \"name\": \"config\", \n            \"empty\": false\n        }\n    ]\n},\n",
+    "asn": "AS199590",
+    "transport": "tcp",
+    "ip_str": "155.133.192.32"
+}
